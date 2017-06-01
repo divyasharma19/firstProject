@@ -6,8 +6,8 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://agrawall.lokesh@gitlab.com/react-redux-bootcamp/boilerplate.git
-> cd ReactReduxBootcamp
+> git clone this repository.  
+> cd firstProject
 > npm install
 > npm start
 ```
